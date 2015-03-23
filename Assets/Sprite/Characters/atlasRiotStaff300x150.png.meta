@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 38826a3675eb0404faf7800380419e29
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasRiotStaff300x150_0
+    21300002: atlasRiotStaff300x150_1
+    21300004: atlasRiotStaff300x150_2
+    21300006: atlasRiotStaff300x150_3
+    21300008: atlasRiotStaff300x150_4
+    21300010: atlasRiotStaff300x150_5
+    21300012: atlasRiotStaff300x150_6
+    21300014: atlasRiotStaff300x150_7
+    21300016: atlasRiotStaff300x150_8
+    21300018: atlasRiotStaff300x150_9
+    21300020: atlasRiotStaff300x150_10
+    21300022: atlasRiotStaff300x150_11
+    21300024: atlasRiotStaff300x150_12
+    21300026: atlasRiotStaff300x150_13
+    21300028: atlasRiotStaff300x150_14
+    21300030: atlasRiotStaff300x150_15
+    21300032: atlasRiotStaff300x150_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atlasRiotStaff300x150_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotStaff300x150_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

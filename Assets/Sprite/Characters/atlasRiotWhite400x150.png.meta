@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: ce9d3fbd3c00df1498ca5c93129ba033
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasRiotWhite400x150_0
+    21300002: atlasRiotWhite400x150_1
+    21300004: atlasRiotWhite400x150_2
+    21300006: atlasRiotWhite400x150_3
+    21300008: atlasRiotWhite400x150_4
+    21300010: atlasRiotWhite400x150_5
+    21300012: atlasRiotWhite400x150_6
+    21300014: atlasRiotWhite400x150_7
+    21300016: atlasRiotWhite400x150_8
+    21300018: atlasRiotWhite400x150_9
+    21300020: atlasRiotWhite400x150_10
+    21300022: atlasRiotWhite400x150_11
+    21300024: atlasRiotWhite400x150_12
+    21300026: atlasRiotWhite400x150_13
+    21300028: atlasRiotWhite400x150_14
+    21300030: atlasRiotWhite400x150_15
+    21300032: atlasRiotWhite400x150_16
+    21300034: atlasRiotWhite400x150_17
+    21300036: atlasRiotWhite400x150_18
+    21300038: atlasRiotWhite400x150_19
+    21300040: atlasRiotWhite400x150_20
+    21300042: atlasRiotWhite400x150_21
+    21300044: atlasRiotWhite400x150_22
+    21300046: atlasRiotWhite400x150_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atlasRiotWhite400x150_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasRiotWhite400x150_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .25999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
